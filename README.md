@@ -4,7 +4,13 @@
    - cd into the cardgame directory by entering `cd cardgame`
    - cd into `src` by entering `cd src`
    - Enter `java main.java`
-   
+## What the build does:
+   - Deck is initialized
+   - Deck is then printed
+   - Deck is then shuffled
+   - Deck is then printed
+   - Deck is then sorted
+   - Deck is then printed 
 # Questions
 - What choices did you make when implementing your library?
   - Chose to implement a functioning Deck that can:
