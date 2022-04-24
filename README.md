@@ -1,6 +1,10 @@
 # Card Game
 ## Build Instructions 
-   -
+   - Clone the repository by going to your terminal and entering `git clone https://github.com/johnsonzhang434/cardgame.git`
+   - cd into the cardgame directory by entering `cd cardgame`
+   - cd into `src` by entering `cd src`
+   - Enter `java main.java`
+   
 # Questions
 - What choices did you make when implementing your library?
   - Chose to implement a functioning Deck that can:
